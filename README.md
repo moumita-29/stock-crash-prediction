@@ -186,6 +186,11 @@ Step 5 — Evaluate model performance
 ```
 python src/evaluate.py
 ```
+---
+
+## Run the entire pipeline:
+
+python run_pipeline.py
 
 ---
 
